@@ -1,0 +1,553 @@
+Control Identifiers:
+
+Dialog - 'SAP Logon 760'    (L653, T242, R1403, B990)
+['SAP Logon 760', 'Dialog', 'SAP Logon 760Dialog']
+child_window(title="SAP Logon 760", class_name="#32770")
+   | 
+   | Button - '&Log On'    (L671, T284, R728, B322)
+   | ['&Log On', 'Button', '&Log OnButton', 'Button0', 'Button1']
+   | child_window(title="&Log On", class_name="Button")
+   | 
+   | Button - '&Variable Logon'    (L728, T284, R832, B322)
+   | ['&Variable Logon', 'Button2', '&Variable LogonButton']
+   | child_window(title="&Variable Logon", class_name="Button")
+   | 
+   | Button - ''    (L834, T284, R858, B322)
+   | ['Button1Button', 'Button3', 'Button1Button0', 'Button1Button1']
+   | child_window(class_name="Button")
+   | 
+   | Button - ''    (L858, T284, R882, B322)
+   | ['Button1Button2', 'Button4']
+   | child_window(class_name="Button")
+   | 
+   | Button - ''    (L882, T284, R906, B322)
+   | ['Button1Button3', 'Button5']
+   | child_window(class_name="Button")
+   | 
+   | Button - ''    (L908, T284, R932, B322)
+   | ['Button1Button4', 'Button6']
+   | child_window(class_name="Button")
+   | 
+   | Button - ''    (L932, T284, R956, B322)
+   | ['Button1Button5', 'Button7']
+   | child_window(class_name="Button")
+   | 
+   | Button - ''    (L956, T284, R980, B322)
+   | ['Button1Button6', 'Button8']
+   | child_window(class_name="Button")
+   | 
+   | Button - ''    (L980, T284, R1004, B322)
+   | ['Button1Button7', 'Button9']
+   | child_window(class_name="Button")
+   | 
+   | Button - ''    (L1004, T284, R1028, B322)
+   | ['Button1Button8', 'Button10']
+   | child_window(class_name="Button")
+   | 
+   | Button - 'Status'    (L903, T360, R957, B388)
+   | ['StatusButton', 'Button11', 'Status']
+   | child_window(title="Status", class_name="Button")
+   | 
+   | Button - ''    (L836, T284, R860, B322)
+   | ['Button1Button9', 'Button12']
+   | child_window(class_name="Button")
+   | 
+   | Button - ''    (L1252, T284, R1276, B322)
+   | ['SAP Logon 760Button', 'Button13']
+   | child_window(class_name="Button")
+   | 
+   | Edit - ''    (L1276, T291, R1376, B315)
+   | ['SAP Logon 760Edit', 'Edit', 'Edit0', 'Edit1']
+   | child_window(class_name="Edit")
+   | 
+   | Static - ''    (L682, T292, R920, B326)
+   | ['&Log OnStatic', 'Static', 'Static0', 'Static1']
+   | child_window(class_name="Static")
+   | 
+   | Button - 'Button1'    (L906, T284, R908, B322)
+   | ['Button1Button10', 'Button14', 'Button15']
+   | child_window(title="Button1", class_name="Button")
+   | 
+   | Button - 'Button1'    (L832, T284, R834, B322)
+   | ['Button1Button11', 'Button16', 'Button17']
+   | child_window(title="Button1", class_name="Button")
+   | 
+   | Button - 'Button1'    (L892, T486, R918, B514)
+   | ['Button1Button12', 'Button18', 'Button19']
+   | child_window(title="Button1", class_name="Button")
+   | 
+   | Button - ''    (L814, T524, R849, B552)
+   | ['Button1Button13', 'Button20']
+   | child_window(class_name="Button")
+   | 
+   | Button - 'Button1'    (L834, T284, R836, B322)
+   | ['Button1Button14', 'Button21', 'Button110']
+   | child_window(title="Button1", class_name="Button")
+   | 
+   | Edit - ''    (L798, T566, R868, B594)
+   | ['Button1Edit', 'Edit2', 'Button1Edit0', 'Button1Edit1']
+   | child_window(class_name="Edit")
+   | 
+   | ComboBox - ''    (L682, T610, R766, B638)
+   | ['&Log OnComboBox', 'ComboBox']
+   | child_window(class_name="ComboBox")
+   | 
+   | Static - 'Connections'    (L787, T614, R857, B630)
+   | ['ConnectionsStatic', 'Connections', 'Static2']
+   | child_window(title="Connections", class_name="Static")
+   | 
+   | Static - 'Footer'    (L894, T620, R933, B636)
+   | ['Footer', 'FooterStatic', 'Static3']
+   | child_window(title="Footer", class_name="Static")
+   | 
+   | AfxOleControl140 - ''    (L670, T322, R1386, B972)
+   | ['AfxOleControl140', '&Log OnAfxOleControl140', 'AfxOleControl1400', 'AfxOleControl1401', '&Log OnAfxOleControl1400', '&Log OnAfxOleControl1401']
+   | child_window(class_name="AfxOleControl140")
+   |    | 
+   |    | AfxMDIFrame140 - ''    (L670, T322, R1386, B972)
+   |    | ['&Log OnAfxMDIFrame140', 'AfxMDIFrame140']
+   |    | child_window(class_name="AfxMDIFrame140")
+   |    |    | 
+   |    |    | AfxFrameOrView140 - ''    (L670, T322, R912, B972)
+   |    |    | ['&Log OnAfxFrameOrView140', 'AfxFrameOrView140', 'AfxFrameOrView1400', 'AfxFrameOrView1401']
+   |    |    | child_window(class_name="AfxFrameOrView140")
+   |    |    |    | 
+   |    |    |    | AfxOleControl140 - ''    (L670, T322, R912, B972)
+   |    |    |    | ['AfxOleControl1402', '&Log OnAfxOleControl1402']
+   |    |    |    | child_window(class_name="AfxOleControl140")
+   |    |    |    |    | 
+   |    |    |    |    | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T323, R911, B971)
+   |    |    |    |    | ["SAP's Advanced TreelistSAPTreeList", "SAP's Advanced Treelist", 'SAPTreeList', "SAP's Advanced TreelistSAPTreeList0", "SAP's Advanced TreelistSAPTreeList1", "SAP's Advanced Treelist0", "SAP's Advanced Treelist1", 'SAPTreeList0', 'SAPTreeList1']
+   |    |    |    |    | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   |    |    |    | 
+   |    |    |    | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T323, R911, B971)
+   |    |    |    | ["SAP's Advanced TreelistSAPTreeList", "SAP's Advanced Treelist", 'SAPTreeList', "SAP's Advanced TreelistSAPTreeList0", "SAP's Advanced TreelistSAPTreeList1", "SAP's Advanced Treelist0", "SAP's Advanced Treelist1", 'SAPTreeList0', 'SAPTreeList1']
+   |    |    |    | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   |    |    | 
+   |    |    | AfxOleControl140 - ''    (L670, T322, R912, B972)
+   |    |    | ['AfxOleControl1402', '&Log OnAfxOleControl1402']
+   |    |    | child_window(class_name="AfxOleControl140")
+   |    |    |    | 
+   |    |    |    | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T323, R911, B971)
+   |    |    |    | ["SAP's Advanced TreelistSAPTreeList", "SAP's Advanced Treelist", 'SAPTreeList', "SAP's Advanced TreelistSAPTreeList0", "SAP's Advanced TreelistSAPTreeList1", "SAP's Advanced Treelist0", "SAP's Advanced Treelist1", 'SAPTreeList0', 'SAPTreeList1']
+   |    |    |    | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   |    |    | 
+   |    |    | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T323, R911, B971)
+   |    |    | ["SAP's Advanced TreelistSAPTreeList", "SAP's Advanced Treelist", 'SAPTreeList', "SAP's Advanced TreelistSAPTreeList0", "SAP's Advanced TreelistSAPTreeList1", "SAP's Advanced Treelist0", "SAP's Advanced Treelist1", 'SAPTreeList0', 'SAPTreeList1']
+   |    |    | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   |    |    | 
+   |    |    | AfxFrameOrView140 - ''    (L918, T322, R1386, B972)
+   |    |    | ['AfxFrameOrView1402', 'Button1AfxFrameOrView140']
+   |    |    | child_window(class_name="AfxFrameOrView140")
+   |    |    |    | 
+   |    |    |    | Afx:00BC0000:0 - 'myContainer'    (L918, T322, R1386, B972)
+   |    |    |    | ['myContainer', 'Afx:00BC0000:0', 'myContainerAfx:00BC0000:0']
+   |    |    |    | child_window(title="myContainer", class_name="Afx:00BC0000:0")
+   |    |    |    |    | 
+   |    |    |    |    | Edit - ''    (L1137, T612, R1207, B640)
+   |    |    |    |    | ['Button1Edit2', 'Edit3']
+   |    |    |    |    | child_window(class_name="Edit")
+   |    |    |    |    | 
+   |    |    |    |    | ListView - ''    (L918, T322, R1386, B972)
+   |    |    |    |    | ['ListViewERA - PROD SAP BW/4HANA', 'ListViewERA - PRD S4HANA via Internet NEW', 'ListViewERAJAYA', 'ListView10.11.2.10', 'ListViewQS4', 'ListView/H/dewaruci@erajaya.com/W/s@Pr0Ut3rStr1nk', 'ListViewERA - QBW UAT via Internet', 'ListView10.129.2.221', 'ListViewERA - QAS S4 UAT/EUT Local EP/GP/VPN', 'ListView', 'ListView/H/dewaruci.erajaya.com/W/s@Pr0Ut3rC00necT', 'ListViewERA - QCAR UAT via Internet', 'ListViewQCA', 'ListViewerjpbwscs.aws.erajaya.com', 'ListView10.11.2.11', 'ListViewPS4', 'ListViewERA - QCAR UAT Local EP/GP/VPN', 'ListViewERA - QBW UAT Local EP/GP/VPN', 'ListView00', 'ListViewERA - QAS S4 UAT/EUT via Internet', 'ListViewPBW', 'ListViewQS4 - 300_JKT_Indonesia', 'ListViewQBW', 'Button1ListView', 'ListViewerjps4scs.aws.erajaya.com', 'ListView/H/dewaruci.erajaya.com', 'ListViewERA - PRD S4HANA Local EP/GP/VPN', 'ListView10.11.2.15']
+   |    |    |    |    | child_window(class_name="SysListView32")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    |    |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    |    |    |    | child_window(class_name="SysHeader32")
+   |    |    |    |    | 
+   |    |    |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    |    |    | child_window(class_name="SysHeader32")
+   |    |    |    | 
+   |    |    |    | Edit - ''    (L1137, T612, R1207, B640)
+   |    |    |    | ['Button1Edit2', 'Edit3']
+   |    |    |    | child_window(class_name="Edit")
+   |    |    |    | 
+   |    |    |    | ListView - ''    (L918, T322, R1386, B972)
+   |    |    |    | ['ListViewERA - PROD SAP BW/4HANA', 'ListViewERA - PRD S4HANA via Internet NEW', 'ListViewERAJAYA', 'ListView10.11.2.10', 'ListViewQS4', 'ListView/H/dewaruci@erajaya.com/W/s@Pr0Ut3rStr1nk', 'ListViewERA - QBW UAT via Internet', 'ListView10.129.2.221', 'ListViewERA - QAS S4 UAT/EUT Local EP/GP/VPN', 'ListView', 'ListView/H/dewaruci.erajaya.com/W/s@Pr0Ut3rC00necT', 'ListViewERA - QCAR UAT via Internet', 'ListViewQCA', 'ListViewerjpbwscs.aws.erajaya.com', 'ListView10.11.2.11', 'ListViewPS4', 'ListViewERA - QCAR UAT Local EP/GP/VPN', 'ListViewERA - QBW UAT Local EP/GP/VPN', 'ListView00', 'ListViewERA - QAS S4 UAT/EUT via Internet', 'ListViewPBW', 'ListViewQS4 - 300_JKT_Indonesia', 'ListViewQBW', 'Button1ListView', 'ListViewerjps4scs.aws.erajaya.com', 'ListView/H/dewaruci.erajaya.com', 'ListViewERA - PRD S4HANA Local EP/GP/VPN', 'ListView10.11.2.15']
+   |    |    |    | child_window(class_name="SysListView32")
+   |    |    |    |    | 
+   |    |    |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    |    |    | child_window(class_name="SysHeader32")
+   |    |    |    | 
+   |    |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    |    | child_window(class_name="SysHeader32")
+   |    |    | 
+   |    |    | Afx:00BC0000:0 - 'myContainer'    (L918, T322, R1386, B972)
+   |    |    | ['myContainer', 'Afx:00BC0000:0', 'myContainerAfx:00BC0000:0']
+   |    |    | child_window(title="myContainer", class_name="Afx:00BC0000:0")
+   |    |    |    | 
+   |    |    |    | Edit - ''    (L1137, T612, R1207, B640)
+   |    |    |    | ['Button1Edit2', 'Edit3']
+   |    |    |    | child_window(class_name="Edit")
+   |    |    |    | 
+   |    |    |    | ListView - ''    (L918, T322, R1386, B972)
+   |    |    |    | ['ListViewERA - PROD SAP BW/4HANA', 'ListViewERA - PRD S4HANA via Internet NEW', 'ListViewERAJAYA', 'ListView10.11.2.10', 'ListViewQS4', 'ListView/H/dewaruci@erajaya.com/W/s@Pr0Ut3rStr1nk', 'ListViewERA - QBW UAT via Internet', 'ListView10.129.2.221', 'ListViewERA - QAS S4 UAT/EUT Local EP/GP/VPN', 'ListView', 'ListView/H/dewaruci.erajaya.com/W/s@Pr0Ut3rC00necT', 'ListViewERA - QCAR UAT via Internet', 'ListViewQCA', 'ListViewerjpbwscs.aws.erajaya.com', 'ListView10.11.2.11', 'ListViewPS4', 'ListViewERA - QCAR UAT Local EP/GP/VPN', 'ListViewERA - QBW UAT Local EP/GP/VPN', 'ListView00', 'ListViewERA - QAS S4 UAT/EUT via Internet', 'ListViewPBW', 'ListViewQS4 - 300_JKT_Indonesia', 'ListViewQBW', 'Button1ListView', 'ListViewerjps4scs.aws.erajaya.com', 'ListView/H/dewaruci.erajaya.com', 'ListViewERA - PRD S4HANA Local EP/GP/VPN', 'ListView10.11.2.15']
+   |    |    |    | child_window(class_name="SysListView32")
+   |    |    |    |    | 
+   |    |    |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    |    |    | child_window(class_name="SysHeader32")
+   |    |    |    | 
+   |    |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    |    | child_window(class_name="SysHeader32")
+   |    |    | 
+   |    |    | Edit - ''    (L1137, T612, R1207, B640)
+   |    |    | ['Button1Edit2', 'Edit3']
+   |    |    | child_window(class_name="Edit")
+   |    |    | 
+   |    |    | ListView - ''    (L918, T322, R1386, B972)
+   |    |    | ['ListViewERA - PROD SAP BW/4HANA', 'ListViewERA - PRD S4HANA via Internet NEW', 'ListViewERAJAYA', 'ListView10.11.2.10', 'ListViewQS4', 'ListView/H/dewaruci@erajaya.com/W/s@Pr0Ut3rStr1nk', 'ListViewERA - QBW UAT via Internet', 'ListView10.129.2.221', 'ListViewERA - QAS S4 UAT/EUT Local EP/GP/VPN', 'ListView', 'ListView/H/dewaruci.erajaya.com/W/s@Pr0Ut3rC00necT', 'ListViewERA - QCAR UAT via Internet', 'ListViewQCA', 'ListViewerjpbwscs.aws.erajaya.com', 'ListView10.11.2.11', 'ListViewPS4', 'ListViewERA - QCAR UAT Local EP/GP/VPN', 'ListViewERA - QBW UAT Local EP/GP/VPN', 'ListView00', 'ListViewERA - QAS S4 UAT/EUT via Internet', 'ListViewPBW', 'ListViewQS4 - 300_JKT_Indonesia', 'ListViewQBW', 'Button1ListView', 'ListViewerjps4scs.aws.erajaya.com', 'ListView/H/dewaruci.erajaya.com', 'ListViewERA - PRD S4HANA Local EP/GP/VPN', 'ListView10.11.2.15']
+   |    |    | child_window(class_name="SysListView32")
+   |    |    |    | 
+   |    |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    |    | child_window(class_name="SysHeader32")
+   |    |    | 
+   |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    | child_window(class_name="SysHeader32")
+   |    | 
+   |    | AfxFrameOrView140 - ''    (L670, T322, R912, B972)
+   |    | ['&Log OnAfxFrameOrView140', 'AfxFrameOrView140', 'AfxFrameOrView1400', 'AfxFrameOrView1401']
+   |    | child_window(class_name="AfxFrameOrView140")
+   |    |    | 
+   |    |    | AfxOleControl140 - ''    (L670, T322, R912, B972)
+   |    |    | ['AfxOleControl1402', '&Log OnAfxOleControl1402']
+   |    |    | child_window(class_name="AfxOleControl140")
+   |    |    |    | 
+   |    |    |    | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T323, R911, B971)
+   |    |    |    | ["SAP's Advanced TreelistSAPTreeList", "SAP's Advanced Treelist", 'SAPTreeList', "SAP's Advanced TreelistSAPTreeList0", "SAP's Advanced TreelistSAPTreeList1", "SAP's Advanced Treelist0", "SAP's Advanced Treelist1", 'SAPTreeList0', 'SAPTreeList1']
+   |    |    |    | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   |    |    | 
+   |    |    | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T323, R911, B971)
+   |    |    | ["SAP's Advanced TreelistSAPTreeList", "SAP's Advanced Treelist", 'SAPTreeList', "SAP's Advanced TreelistSAPTreeList0", "SAP's Advanced TreelistSAPTreeList1", "SAP's Advanced Treelist0", "SAP's Advanced Treelist1", 'SAPTreeList0', 'SAPTreeList1']
+   |    |    | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   |    | 
+   |    | AfxOleControl140 - ''    (L670, T322, R912, B972)
+   |    | ['AfxOleControl1402', '&Log OnAfxOleControl1402']
+   |    | child_window(class_name="AfxOleControl140")
+   |    |    | 
+   |    |    | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T323, R911, B971)
+   |    |    | ["SAP's Advanced TreelistSAPTreeList", "SAP's Advanced Treelist", 'SAPTreeList', "SAP's Advanced TreelistSAPTreeList0", "SAP's Advanced TreelistSAPTreeList1", "SAP's Advanced Treelist0", "SAP's Advanced Treelist1", 'SAPTreeList0', 'SAPTreeList1']
+   |    |    | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   |    | 
+   |    | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T323, R911, B971)
+   |    | ["SAP's Advanced TreelistSAPTreeList", "SAP's Advanced Treelist", 'SAPTreeList', "SAP's Advanced TreelistSAPTreeList0", "SAP's Advanced TreelistSAPTreeList1", "SAP's Advanced Treelist0", "SAP's Advanced Treelist1", 'SAPTreeList0', 'SAPTreeList1']
+   |    | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   |    | 
+   |    | AfxFrameOrView140 - ''    (L918, T322, R1386, B972)
+   |    | ['AfxFrameOrView1402', 'Button1AfxFrameOrView140']
+   |    | child_window(class_name="AfxFrameOrView140")
+   |    |    | 
+   |    |    | Afx:00BC0000:0 - 'myContainer'    (L918, T322, R1386, B972)
+   |    |    | ['myContainer', 'Afx:00BC0000:0', 'myContainerAfx:00BC0000:0']
+   |    |    | child_window(title="myContainer", class_name="Afx:00BC0000:0")
+   |    |    |    | 
+   |    |    |    | Edit - ''    (L1137, T612, R1207, B640)
+   |    |    |    | ['Button1Edit2', 'Edit3']
+   |    |    |    | child_window(class_name="Edit")
+   |    |    |    | 
+   |    |    |    | ListView - ''    (L918, T322, R1386, B972)
+   |    |    |    | ['ListViewERA - PROD SAP BW/4HANA', 'ListViewERA - PRD S4HANA via Internet NEW', 'ListViewERAJAYA', 'ListView10.11.2.10', 'ListViewQS4', 'ListView/H/dewaruci@erajaya.com/W/s@Pr0Ut3rStr1nk', 'ListViewERA - QBW UAT via Internet', 'ListView10.129.2.221', 'ListViewERA - QAS S4 UAT/EUT Local EP/GP/VPN', 'ListView', 'ListView/H/dewaruci.erajaya.com/W/s@Pr0Ut3rC00necT', 'ListViewERA - QCAR UAT via Internet', 'ListViewQCA', 'ListViewerjpbwscs.aws.erajaya.com', 'ListView10.11.2.11', 'ListViewPS4', 'ListViewERA - QCAR UAT Local EP/GP/VPN', 'ListViewERA - QBW UAT Local EP/GP/VPN', 'ListView00', 'ListViewERA - QAS S4 UAT/EUT via Internet', 'ListViewPBW', 'ListViewQS4 - 300_JKT_Indonesia', 'ListViewQBW', 'Button1ListView', 'ListViewerjps4scs.aws.erajaya.com', 'ListView/H/dewaruci.erajaya.com', 'ListViewERA - PRD S4HANA Local EP/GP/VPN', 'ListView10.11.2.15']
+   |    |    |    | child_window(class_name="SysListView32")
+   |    |    |    |    | 
+   |    |    |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    |    |    | child_window(class_name="SysHeader32")
+   |    |    |    | 
+   |    |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    |    | child_window(class_name="SysHeader32")
+   |    |    | 
+   |    |    | Edit - ''    (L1137, T612, R1207, B640)
+   |    |    | ['Button1Edit2', 'Edit3']
+   |    |    | child_window(class_name="Edit")
+   |    |    | 
+   |    |    | ListView - ''    (L918, T322, R1386, B972)
+   |    |    | ['ListViewERA - PROD SAP BW/4HANA', 'ListViewERA - PRD S4HANA via Internet NEW', 'ListViewERAJAYA', 'ListView10.11.2.10', 'ListViewQS4', 'ListView/H/dewaruci@erajaya.com/W/s@Pr0Ut3rStr1nk', 'ListViewERA - QBW UAT via Internet', 'ListView10.129.2.221', 'ListViewERA - QAS S4 UAT/EUT Local EP/GP/VPN', 'ListView', 'ListView/H/dewaruci.erajaya.com/W/s@Pr0Ut3rC00necT', 'ListViewERA - QCAR UAT via Internet', 'ListViewQCA', 'ListViewerjpbwscs.aws.erajaya.com', 'ListView10.11.2.11', 'ListViewPS4', 'ListViewERA - QCAR UAT Local EP/GP/VPN', 'ListViewERA - QBW UAT Local EP/GP/VPN', 'ListView00', 'ListViewERA - QAS S4 UAT/EUT via Internet', 'ListViewPBW', 'ListViewQS4 - 300_JKT_Indonesia', 'ListViewQBW', 'Button1ListView', 'ListViewerjps4scs.aws.erajaya.com', 'ListView/H/dewaruci.erajaya.com', 'ListViewERA - PRD S4HANA Local EP/GP/VPN', 'ListView10.11.2.15']
+   |    |    | child_window(class_name="SysListView32")
+   |    |    |    | 
+   |    |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    |    | child_window(class_name="SysHeader32")
+   |    |    | 
+   |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    | child_window(class_name="SysHeader32")
+   |    | 
+   |    | Afx:00BC0000:0 - 'myContainer'    (L918, T322, R1386, B972)
+   |    | ['myContainer', 'Afx:00BC0000:0', 'myContainerAfx:00BC0000:0']
+   |    | child_window(title="myContainer", class_name="Afx:00BC0000:0")
+   |    |    | 
+   |    |    | Edit - ''    (L1137, T612, R1207, B640)
+   |    |    | ['Button1Edit2', 'Edit3']
+   |    |    | child_window(class_name="Edit")
+   |    |    | 
+   |    |    | ListView - ''    (L918, T322, R1386, B972)
+   |    |    | ['ListViewERA - PROD SAP BW/4HANA', 'ListViewERA - PRD S4HANA via Internet NEW', 'ListViewERAJAYA', 'ListView10.11.2.10', 'ListViewQS4', 'ListView/H/dewaruci@erajaya.com/W/s@Pr0Ut3rStr1nk', 'ListViewERA - QBW UAT via Internet', 'ListView10.129.2.221', 'ListViewERA - QAS S4 UAT/EUT Local EP/GP/VPN', 'ListView', 'ListView/H/dewaruci.erajaya.com/W/s@Pr0Ut3rC00necT', 'ListViewERA - QCAR UAT via Internet', 'ListViewQCA', 'ListViewerjpbwscs.aws.erajaya.com', 'ListView10.11.2.11', 'ListViewPS4', 'ListViewERA - QCAR UAT Local EP/GP/VPN', 'ListViewERA - QBW UAT Local EP/GP/VPN', 'ListView00', 'ListViewERA - QAS S4 UAT/EUT via Internet', 'ListViewPBW', 'ListViewQS4 - 300_JKT_Indonesia', 'ListViewQBW', 'Button1ListView', 'ListViewerjps4scs.aws.erajaya.com', 'ListView/H/dewaruci.erajaya.com', 'ListViewERA - PRD S4HANA Local EP/GP/VPN', 'ListView10.11.2.15']
+   |    |    | child_window(class_name="SysListView32")
+   |    |    |    | 
+   |    |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    |    | child_window(class_name="SysHeader32")
+   |    |    | 
+   |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    | child_window(class_name="SysHeader32")
+   |    | 
+   |    | Edit - ''    (L1137, T612, R1207, B640)
+   |    | ['Button1Edit2', 'Edit3']
+   |    | child_window(class_name="Edit")
+   |    | 
+   |    | ListView - ''    (L918, T322, R1386, B972)
+   |    | ['ListViewERA - PROD SAP BW/4HANA', 'ListViewERA - PRD S4HANA via Internet NEW', 'ListViewERAJAYA', 'ListView10.11.2.10', 'ListViewQS4', 'ListView/H/dewaruci@erajaya.com/W/s@Pr0Ut3rStr1nk', 'ListViewERA - QBW UAT via Internet', 'ListView10.129.2.221', 'ListViewERA - QAS S4 UAT/EUT Local EP/GP/VPN', 'ListView', 'ListView/H/dewaruci.erajaya.com/W/s@Pr0Ut3rC00necT', 'ListViewERA - QCAR UAT via Internet', 'ListViewQCA', 'ListViewerjpbwscs.aws.erajaya.com', 'ListView10.11.2.11', 'ListViewPS4', 'ListViewERA - QCAR UAT Local EP/GP/VPN', 'ListViewERA - QBW UAT Local EP/GP/VPN', 'ListView00', 'ListViewERA - QAS S4 UAT/EUT via Internet', 'ListViewPBW', 'ListViewQS4 - 300_JKT_Indonesia', 'ListViewQBW', 'Button1ListView', 'ListViewerjps4scs.aws.erajaya.com', 'ListView/H/dewaruci.erajaya.com', 'ListViewERA - PRD S4HANA Local EP/GP/VPN', 'ListView10.11.2.15']
+   |    | child_window(class_name="SysListView32")
+   |    |    | 
+   |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    | child_window(class_name="SysHeader32")
+   |    | 
+   |    | Header - ''    (L919, T323, R1383, B347)
+   |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    | child_window(class_name="SysHeader32")
+   | 
+   | AfxMDIFrame140 - ''    (L670, T322, R1386, B972)
+   | ['&Log OnAfxMDIFrame140', 'AfxMDIFrame140']
+   | child_window(class_name="AfxMDIFrame140")
+   |    | 
+   |    | AfxFrameOrView140 - ''    (L670, T322, R912, B972)
+   |    | ['&Log OnAfxFrameOrView140', 'AfxFrameOrView140', 'AfxFrameOrView1400', 'AfxFrameOrView1401']
+   |    | child_window(class_name="AfxFrameOrView140")
+   |    |    | 
+   |    |    | AfxOleControl140 - ''    (L670, T322, R912, B972)
+   |    |    | ['AfxOleControl1402', '&Log OnAfxOleControl1402']
+   |    |    | child_window(class_name="AfxOleControl140")
+   |    |    |    | 
+   |    |    |    | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T323, R911, B971)
+   |    |    |    | ["SAP's Advanced TreelistSAPTreeList", "SAP's Advanced Treelist", 'SAPTreeList', "SAP's Advanced TreelistSAPTreeList0", "SAP's Advanced TreelistSAPTreeList1", "SAP's Advanced Treelist0", "SAP's Advanced Treelist1", 'SAPTreeList0', 'SAPTreeList1']
+   |    |    |    | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   |    |    | 
+   |    |    | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T323, R911, B971)
+   |    |    | ["SAP's Advanced TreelistSAPTreeList", "SAP's Advanced Treelist", 'SAPTreeList', "SAP's Advanced TreelistSAPTreeList0", "SAP's Advanced TreelistSAPTreeList1", "SAP's Advanced Treelist0", "SAP's Advanced Treelist1", 'SAPTreeList0', 'SAPTreeList1']
+   |    |    | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   |    | 
+   |    | AfxOleControl140 - ''    (L670, T322, R912, B972)
+   |    | ['AfxOleControl1402', '&Log OnAfxOleControl1402']
+   |    | child_window(class_name="AfxOleControl140")
+   |    |    | 
+   |    |    | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T323, R911, B971)
+   |    |    | ["SAP's Advanced TreelistSAPTreeList", "SAP's Advanced Treelist", 'SAPTreeList', "SAP's Advanced TreelistSAPTreeList0", "SAP's Advanced TreelistSAPTreeList1", "SAP's Advanced Treelist0", "SAP's Advanced Treelist1", 'SAPTreeList0', 'SAPTreeList1']
+   |    |    | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   |    | 
+   |    | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T323, R911, B971)
+   |    | ["SAP's Advanced TreelistSAPTreeList", "SAP's Advanced Treelist", 'SAPTreeList', "SAP's Advanced TreelistSAPTreeList0", "SAP's Advanced TreelistSAPTreeList1", "SAP's Advanced Treelist0", "SAP's Advanced Treelist1", 'SAPTreeList0', 'SAPTreeList1']
+   |    | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   |    | 
+   |    | AfxFrameOrView140 - ''    (L918, T322, R1386, B972)
+   |    | ['AfxFrameOrView1402', 'Button1AfxFrameOrView140']
+   |    | child_window(class_name="AfxFrameOrView140")
+   |    |    | 
+   |    |    | Afx:00BC0000:0 - 'myContainer'    (L918, T322, R1386, B972)
+   |    |    | ['myContainer', 'Afx:00BC0000:0', 'myContainerAfx:00BC0000:0']
+   |    |    | child_window(title="myContainer", class_name="Afx:00BC0000:0")
+   |    |    |    | 
+   |    |    |    | Edit - ''    (L1137, T612, R1207, B640)
+   |    |    |    | ['Button1Edit2', 'Edit3']
+   |    |    |    | child_window(class_name="Edit")
+   |    |    |    | 
+   |    |    |    | ListView - ''    (L918, T322, R1386, B972)
+   |    |    |    | ['ListViewERA - PROD SAP BW/4HANA', 'ListViewERA - PRD S4HANA via Internet NEW', 'ListViewERAJAYA', 'ListView10.11.2.10', 'ListViewQS4', 'ListView/H/dewaruci@erajaya.com/W/s@Pr0Ut3rStr1nk', 'ListViewERA - QBW UAT via Internet', 'ListView10.129.2.221', 'ListViewERA - QAS S4 UAT/EUT Local EP/GP/VPN', 'ListView', 'ListView/H/dewaruci.erajaya.com/W/s@Pr0Ut3rC00necT', 'ListViewERA - QCAR UAT via Internet', 'ListViewQCA', 'ListViewerjpbwscs.aws.erajaya.com', 'ListView10.11.2.11', 'ListViewPS4', 'ListViewERA - QCAR UAT Local EP/GP/VPN', 'ListViewERA - QBW UAT Local EP/GP/VPN', 'ListView00', 'ListViewERA - QAS S4 UAT/EUT via Internet', 'ListViewPBW', 'ListViewQS4 - 300_JKT_Indonesia', 'ListViewQBW', 'Button1ListView', 'ListViewerjps4scs.aws.erajaya.com', 'ListView/H/dewaruci.erajaya.com', 'ListViewERA - PRD S4HANA Local EP/GP/VPN', 'ListView10.11.2.15']
+   |    |    |    | child_window(class_name="SysListView32")
+   |    |    |    |    | 
+   |    |    |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    |    |    | child_window(class_name="SysHeader32")
+   |    |    |    | 
+   |    |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    |    | child_window(class_name="SysHeader32")
+   |    |    | 
+   |    |    | Edit - ''    (L1137, T612, R1207, B640)
+   |    |    | ['Button1Edit2', 'Edit3']
+   |    |    | child_window(class_name="Edit")
+   |    |    | 
+   |    |    | ListView - ''    (L918, T322, R1386, B972)
+   |    |    | ['ListViewERA - PROD SAP BW/4HANA', 'ListViewERA - PRD S4HANA via Internet NEW', 'ListViewERAJAYA', 'ListView10.11.2.10', 'ListViewQS4', 'ListView/H/dewaruci@erajaya.com/W/s@Pr0Ut3rStr1nk', 'ListViewERA - QBW UAT via Internet', 'ListView10.129.2.221', 'ListViewERA - QAS S4 UAT/EUT Local EP/GP/VPN', 'ListView', 'ListView/H/dewaruci.erajaya.com/W/s@Pr0Ut3rC00necT', 'ListViewERA - QCAR UAT via Internet', 'ListViewQCA', 'ListViewerjpbwscs.aws.erajaya.com', 'ListView10.11.2.11', 'ListViewPS4', 'ListViewERA - QCAR UAT Local EP/GP/VPN', 'ListViewERA - QBW UAT Local EP/GP/VPN', 'ListView00', 'ListViewERA - QAS S4 UAT/EUT via Internet', 'ListViewPBW', 'ListViewQS4 - 300_JKT_Indonesia', 'ListViewQBW', 'Button1ListView', 'ListViewerjps4scs.aws.erajaya.com', 'ListView/H/dewaruci.erajaya.com', 'ListViewERA - PRD S4HANA Local EP/GP/VPN', 'ListView10.11.2.15']
+   |    |    | child_window(class_name="SysListView32")
+   |    |    |    | 
+   |    |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    |    | child_window(class_name="SysHeader32")
+   |    |    | 
+   |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    | child_window(class_name="SysHeader32")
+   |    | 
+   |    | Afx:00BC0000:0 - 'myContainer'    (L918, T322, R1386, B972)
+   |    | ['myContainer', 'Afx:00BC0000:0', 'myContainerAfx:00BC0000:0']
+   |    | child_window(title="myContainer", class_name="Afx:00BC0000:0")
+   |    |    | 
+   |    |    | Edit - ''    (L1137, T612, R1207, B640)
+   |    |    | ['Button1Edit2', 'Edit3']
+   |    |    | child_window(class_name="Edit")
+   |    |    | 
+   |    |    | ListView - ''    (L918, T322, R1386, B972)
+   |    |    | ['ListViewERA - PROD SAP BW/4HANA', 'ListViewERA - PRD S4HANA via Internet NEW', 'ListViewERAJAYA', 'ListView10.11.2.10', 'ListViewQS4', 'ListView/H/dewaruci@erajaya.com/W/s@Pr0Ut3rStr1nk', 'ListViewERA - QBW UAT via Internet', 'ListView10.129.2.221', 'ListViewERA - QAS S4 UAT/EUT Local EP/GP/VPN', 'ListView', 'ListView/H/dewaruci.erajaya.com/W/s@Pr0Ut3rC00necT', 'ListViewERA - QCAR UAT via Internet', 'ListViewQCA', 'ListViewerjpbwscs.aws.erajaya.com', 'ListView10.11.2.11', 'ListViewPS4', 'ListViewERA - QCAR UAT Local EP/GP/VPN', 'ListViewERA - QBW UAT Local EP/GP/VPN', 'ListView00', 'ListViewERA - QAS S4 UAT/EUT via Internet', 'ListViewPBW', 'ListViewQS4 - 300_JKT_Indonesia', 'ListViewQBW', 'Button1ListView', 'ListViewerjps4scs.aws.erajaya.com', 'ListView/H/dewaruci.erajaya.com', 'ListViewERA - PRD S4HANA Local EP/GP/VPN', 'ListView10.11.2.15']
+   |    |    | child_window(class_name="SysListView32")
+   |    |    |    | 
+   |    |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    |    | child_window(class_name="SysHeader32")
+   |    |    | 
+   |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    | child_window(class_name="SysHeader32")
+   |    | 
+   |    | Edit - ''    (L1137, T612, R1207, B640)
+   |    | ['Button1Edit2', 'Edit3']
+   |    | child_window(class_name="Edit")
+   |    | 
+   |    | ListView - ''    (L918, T322, R1386, B972)
+   |    | ['ListViewERA - PROD SAP BW/4HANA', 'ListViewERA - PRD S4HANA via Internet NEW', 'ListViewERAJAYA', 'ListView10.11.2.10', 'ListViewQS4', 'ListView/H/dewaruci@erajaya.com/W/s@Pr0Ut3rStr1nk', 'ListViewERA - QBW UAT via Internet', 'ListView10.129.2.221', 'ListViewERA - QAS S4 UAT/EUT Local EP/GP/VPN', 'ListView', 'ListView/H/dewaruci.erajaya.com/W/s@Pr0Ut3rC00necT', 'ListViewERA - QCAR UAT via Internet', 'ListViewQCA', 'ListViewerjpbwscs.aws.erajaya.com', 'ListView10.11.2.11', 'ListViewPS4', 'ListViewERA - QCAR UAT Local EP/GP/VPN', 'ListViewERA - QBW UAT Local EP/GP/VPN', 'ListView00', 'ListViewERA - QAS S4 UAT/EUT via Internet', 'ListViewPBW', 'ListViewQS4 - 300_JKT_Indonesia', 'ListViewQBW', 'Button1ListView', 'ListViewerjps4scs.aws.erajaya.com', 'ListView/H/dewaruci.erajaya.com', 'ListViewERA - PRD S4HANA Local EP/GP/VPN', 'ListView10.11.2.15']
+   |    | child_window(class_name="SysListView32")
+   |    |    | 
+   |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    | child_window(class_name="SysHeader32")
+   |    | 
+   |    | Header - ''    (L919, T323, R1383, B347)
+   |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    | child_window(class_name="SysHeader32")
+   | 
+   | AfxFrameOrView140 - ''    (L670, T322, R912, B972)
+   | ['&Log OnAfxFrameOrView140', 'AfxFrameOrView140', 'AfxFrameOrView1400', 'AfxFrameOrView1401']
+   | child_window(class_name="AfxFrameOrView140")
+   |    | 
+   |    | AfxOleControl140 - ''    (L670, T322, R912, B972)
+   |    | ['AfxOleControl1402', '&Log OnAfxOleControl1402']
+   |    | child_window(class_name="AfxOleControl140")
+   |    |    | 
+   |    |    | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T323, R911, B971)
+   |    |    | ["SAP's Advanced TreelistSAPTreeList", "SAP's Advanced Treelist", 'SAPTreeList', "SAP's Advanced TreelistSAPTreeList0", "SAP's Advanced TreelistSAPTreeList1", "SAP's Advanced Treelist0", "SAP's Advanced Treelist1", 'SAPTreeList0', 'SAPTreeList1']
+   |    |    | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   |    | 
+   |    | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T323, R911, B971)
+   |    | ["SAP's Advanced TreelistSAPTreeList", "SAP's Advanced Treelist", 'SAPTreeList', "SAP's Advanced TreelistSAPTreeList0", "SAP's Advanced TreelistSAPTreeList1", "SAP's Advanced Treelist0", "SAP's Advanced Treelist1", 'SAPTreeList0', 'SAPTreeList1']
+   |    | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   | 
+   | AfxOleControl140 - ''    (L670, T322, R912, B972)
+   | ['AfxOleControl1402', '&Log OnAfxOleControl1402']
+   | child_window(class_name="AfxOleControl140")
+   |    | 
+   |    | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T323, R911, B971)
+   |    | ["SAP's Advanced TreelistSAPTreeList", "SAP's Advanced Treelist", 'SAPTreeList', "SAP's Advanced TreelistSAPTreeList0", "SAP's Advanced TreelistSAPTreeList1", "SAP's Advanced Treelist0", "SAP's Advanced Treelist1", 'SAPTreeList0', 'SAPTreeList1']
+   |    | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   | 
+   | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T323, R911, B971)
+   | ["SAP's Advanced TreelistSAPTreeList", "SAP's Advanced Treelist", 'SAPTreeList', "SAP's Advanced TreelistSAPTreeList0", "SAP's Advanced TreelistSAPTreeList1", "SAP's Advanced Treelist0", "SAP's Advanced Treelist1", 'SAPTreeList0', 'SAPTreeList1']
+   | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   | 
+   | AfxFrameOrView140 - ''    (L918, T322, R1386, B972)
+   | ['AfxFrameOrView1402', 'Button1AfxFrameOrView140']
+   | child_window(class_name="AfxFrameOrView140")
+   |    | 
+   |    | Afx:00BC0000:0 - 'myContainer'    (L918, T322, R1386, B972)
+   |    | ['myContainer', 'Afx:00BC0000:0', 'myContainerAfx:00BC0000:0']
+   |    | child_window(title="myContainer", class_name="Afx:00BC0000:0")
+   |    |    | 
+   |    |    | Edit - ''    (L1137, T612, R1207, B640)
+   |    |    | ['Button1Edit2', 'Edit3']
+   |    |    | child_window(class_name="Edit")
+   |    |    | 
+   |    |    | ListView - ''    (L918, T322, R1386, B972)
+   |    |    | ['ListViewERA - PROD SAP BW/4HANA', 'ListViewERA - PRD S4HANA via Internet NEW', 'ListViewERAJAYA', 'ListView10.11.2.10', 'ListViewQS4', 'ListView/H/dewaruci@erajaya.com/W/s@Pr0Ut3rStr1nk', 'ListViewERA - QBW UAT via Internet', 'ListView10.129.2.221', 'ListViewERA - QAS S4 UAT/EUT Local EP/GP/VPN', 'ListView', 'ListView/H/dewaruci.erajaya.com/W/s@Pr0Ut3rC00necT', 'ListViewERA - QCAR UAT via Internet', 'ListViewQCA', 'ListViewerjpbwscs.aws.erajaya.com', 'ListView10.11.2.11', 'ListViewPS4', 'ListViewERA - QCAR UAT Local EP/GP/VPN', 'ListViewERA - QBW UAT Local EP/GP/VPN', 'ListView00', 'ListViewERA - QAS S4 UAT/EUT via Internet', 'ListViewPBW', 'ListViewQS4 - 300_JKT_Indonesia', 'ListViewQBW', 'Button1ListView', 'ListViewerjps4scs.aws.erajaya.com', 'ListView/H/dewaruci.erajaya.com', 'ListViewERA - PRD S4HANA Local EP/GP/VPN', 'ListView10.11.2.15']
+   |    |    | child_window(class_name="SysListView32")
+   |    |    |    | 
+   |    |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    |    | child_window(class_name="SysHeader32")
+   |    |    | 
+   |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    | child_window(class_name="SysHeader32")
+   |    | 
+   |    | Edit - ''    (L1137, T612, R1207, B640)
+   |    | ['Button1Edit2', 'Edit3']
+   |    | child_window(class_name="Edit")
+   |    | 
+   |    | ListView - ''    (L918, T322, R1386, B972)
+   |    | ['ListViewERA - PROD SAP BW/4HANA', 'ListViewERA - PRD S4HANA via Internet NEW', 'ListViewERAJAYA', 'ListView10.11.2.10', 'ListViewQS4', 'ListView/H/dewaruci@erajaya.com/W/s@Pr0Ut3rStr1nk', 'ListViewERA - QBW UAT via Internet', 'ListView10.129.2.221', 'ListViewERA - QAS S4 UAT/EUT Local EP/GP/VPN', 'ListView', 'ListView/H/dewaruci.erajaya.com/W/s@Pr0Ut3rC00necT', 'ListViewERA - QCAR UAT via Internet', 'ListViewQCA', 'ListViewerjpbwscs.aws.erajaya.com', 'ListView10.11.2.11', 'ListViewPS4', 'ListViewERA - QCAR UAT Local EP/GP/VPN', 'ListViewERA - QBW UAT Local EP/GP/VPN', 'ListView00', 'ListViewERA - QAS S4 UAT/EUT via Internet', 'ListViewPBW', 'ListViewQS4 - 300_JKT_Indonesia', 'ListViewQBW', 'Button1ListView', 'ListViewerjps4scs.aws.erajaya.com', 'ListView/H/dewaruci.erajaya.com', 'ListViewERA - PRD S4HANA Local EP/GP/VPN', 'ListView10.11.2.15']
+   |    | child_window(class_name="SysListView32")
+   |    |    | 
+   |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    | child_window(class_name="SysHeader32")
+   |    | 
+   |    | Header - ''    (L919, T323, R1383, B347)
+   |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    | child_window(class_name="SysHeader32")
+   | 
+   | Afx:00BC0000:0 - 'myContainer'    (L918, T322, R1386, B972)
+   | ['myContainer', 'Afx:00BC0000:0', 'myContainerAfx:00BC0000:0']
+   | child_window(title="myContainer", class_name="Afx:00BC0000:0")
+   |    | 
+   |    | Edit - ''    (L1137, T612, R1207, B640)
+   |    | ['Button1Edit2', 'Edit3']
+   |    | child_window(class_name="Edit")
+   |    | 
+   |    | ListView - ''    (L918, T322, R1386, B972)
+   |    | ['ListViewERA - PROD SAP BW/4HANA', 'ListViewERA - PRD S4HANA via Internet NEW', 'ListViewERAJAYA', 'ListView10.11.2.10', 'ListViewQS4', 'ListView/H/dewaruci@erajaya.com/W/s@Pr0Ut3rStr1nk', 'ListViewERA - QBW UAT via Internet', 'ListView10.129.2.221', 'ListViewERA - QAS S4 UAT/EUT Local EP/GP/VPN', 'ListView', 'ListView/H/dewaruci.erajaya.com/W/s@Pr0Ut3rC00necT', 'ListViewERA - QCAR UAT via Internet', 'ListViewQCA', 'ListViewerjpbwscs.aws.erajaya.com', 'ListView10.11.2.11', 'ListViewPS4', 'ListViewERA - QCAR UAT Local EP/GP/VPN', 'ListViewERA - QBW UAT Local EP/GP/VPN', 'ListView00', 'ListViewERA - QAS S4 UAT/EUT via Internet', 'ListViewPBW', 'ListViewQS4 - 300_JKT_Indonesia', 'ListViewQBW', 'Button1ListView', 'ListViewerjps4scs.aws.erajaya.com', 'ListView/H/dewaruci.erajaya.com', 'ListViewERA - PRD S4HANA Local EP/GP/VPN', 'ListView10.11.2.15']
+   |    | child_window(class_name="SysListView32")
+   |    |    | 
+   |    |    | Header - ''    (L919, T323, R1383, B347)
+   |    |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    |    | child_window(class_name="SysHeader32")
+   |    | 
+   |    | Header - ''    (L919, T323, R1383, B347)
+   |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    | child_window(class_name="SysHeader32")
+   | 
+   | Edit - ''    (L1137, T612, R1207, B640)
+   | ['Button1Edit2', 'Edit3']
+   | child_window(class_name="Edit")
+   | 
+   | ListView - ''    (L918, T322, R1386, B972)
+   | ['ListViewERA - PROD SAP BW/4HANA', 'ListViewERA - PRD S4HANA via Internet NEW', 'ListViewERAJAYA', 'ListView10.11.2.10', 'ListViewQS4', 'ListView/H/dewaruci@erajaya.com/W/s@Pr0Ut3rStr1nk', 'ListViewERA - QBW UAT via Internet', 'ListView10.129.2.221', 'ListViewERA - QAS S4 UAT/EUT Local EP/GP/VPN', 'ListView', 'ListView/H/dewaruci.erajaya.com/W/s@Pr0Ut3rC00necT', 'ListViewERA - QCAR UAT via Internet', 'ListViewQCA', 'ListViewerjpbwscs.aws.erajaya.com', 'ListView10.11.2.11', 'ListViewPS4', 'ListViewERA - QCAR UAT Local EP/GP/VPN', 'ListViewERA - QBW UAT Local EP/GP/VPN', 'ListView00', 'ListViewERA - QAS S4 UAT/EUT via Internet', 'ListViewPBW', 'ListViewQS4 - 300_JKT_Indonesia', 'ListViewQBW', 'Button1ListView', 'ListViewerjps4scs.aws.erajaya.com', 'ListView/H/dewaruci.erajaya.com', 'ListViewERA - PRD S4HANA Local EP/GP/VPN', 'ListView10.11.2.15']
+   | child_window(class_name="SysListView32")
+   |    | 
+   |    | Header - ''    (L919, T323, R1383, B347)
+   |    | ['Header', 'Button1Header', 'Header0', 'Header1']
+   |    | child_window(class_name="SysHeader32")
+   | 
+   | Header - ''    (L919, T323, R1383, B347)
+   | ['Header', 'Button1Header', 'Header0', 'Header1']
+   | child_window(class_name="SysHeader32")
+   | 
+   | AfxOleControl140 - ''    (L670, T278, R770, B378)
+   | ['AfxOleControl1403', '&Log OnAfxOleControl1403']
+   | child_window(class_name="AfxOleControl140")
+   |    | 
+   |    | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T302, R769, B377)
+   |    | ["SAP's Advanced TreelistSAPTreeList2", "SAP's Advanced Treelist2", 'SAPTreeList2']
+   |    | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   |    | 
+   |    | Header - ''    (L671, T279, R769, B302)
+   |    | ['Header2', '&Log OnHeader']
+   |    | child_window(class_name="SysHeader32")
+   | 
+   | SAPTreeList - 'SAP's Advanced Treelist'    (L671, T302, R769, B377)
+   | ["SAP's Advanced TreelistSAPTreeList2", "SAP's Advanced Treelist2", 'SAPTreeList2']
+   | child_window(title="SAP's Advanced Treelist", class_name="SAPTreeList")
+   | 
+   | Header - ''    (L671, T279, R769, B302)
+   | ['Header2', '&Log OnHeader']
+   | child_window(class_name="SysHeader32")
+   | 
+   | TabControl - ''    (L670, T278, R670, B278)
+   | ['SAP Logon 760TabControl', 'TabControl']
+   | child_window(class_name="SysTabControl32")
